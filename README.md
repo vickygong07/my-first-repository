@@ -1,2 +1,2 @@
 # my-first-repository
-This is Heqing. I'm happy to start my journey at GitHub. Keep exploring.
+This is Vicky Gong. I'm happy to start my journey with GitHub. Let's keep exploring.
